@@ -56,7 +56,7 @@
 ---
 
 ## 💬 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/henda-derbali-8a6148113/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/henda-derbali-web-developer/)
 - 📧 [derbalihenda93@gmail.com](mailto:derbalihenda93@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
