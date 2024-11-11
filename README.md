@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=center)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&fontAlignY=50)
+
 
 # 👩‍💻 Henda Derbali | Full Stack Web Developer 🚀
 🌟 Passionate about building dynamic and user-friendly applications that solve real-world problems.  
