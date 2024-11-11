@@ -32,9 +32,9 @@
 - A team project using MERN Stack to track fitness goals and progress.
 
 ### [🛠 Coding-Dojo-Final-Projects](https://github.com/HendaDerbali/Coding-Dojo-Final-Projects)
-- A compilation of projects developed during the Coding Dojo bootcamp, including:
-  - **MERN Applications**
-  - **Java and Spring Boot Applications**
+- A compilation of projects developed during the Coding Dojo bootcamp:
+  - **Solo Project Chore Tracker**: Task management app built with Spring Boot MVC.
+  - **Ecommerce Website**: Secure ecommerce platform using Spring Boot MVC and Spring Security.
 
 ### [🔧 C#.NET Project](https://github.com/HendaDerbali/C-.NET)
 - A robust project developed using C# and .NET frameworks, showcasing backend expertise.
